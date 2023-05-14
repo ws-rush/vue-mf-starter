@@ -1,9 +1,6 @@
 {
   "name": "angular15-vue3",
   "private": true,
-  "workspaces": [
-    "vue-remote"
-  ],
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -26,7 +23,7 @@
     "bootstrap": "^4.5.3",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
-    "zone.js": "~0.11.0"
+    "zone.js": "~0.11.8"
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "14.1.0",
