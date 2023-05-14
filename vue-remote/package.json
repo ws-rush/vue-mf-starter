@@ -7,8 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "primevue": "^3.29.0",
+    "vue": "^3.3.2",
+    "vue-router": "^4.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "5.0.8",
